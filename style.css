@@ -12,3 +12,22 @@ p {
   width: 500px;
   margin: 20px auto;
 }
+h1 {
+  font-size: 50px;
+}
+.link,
+.return {
+  margin-left: 700px;
+}
+a {
+  padding: 4px;
+}
+img {
+  width: 700px;
+  margin-left: 400px;
+  border-radius: 4px;
+}
+.recipe {
+  text-align: center;
+  margin-top: 100px;
+}
